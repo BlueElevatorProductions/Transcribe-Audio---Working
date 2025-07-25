@@ -1,5 +1,7 @@
 # Transcribe Audio (macOS App)
 
+[![Build Status](https://github.com/BlueElevatorProductions/Transcribe-Audio---Working/actions/workflows/xcode.yml/badge.svg)](https://github.com/BlueElevatorProductions/Transcribe-Audio---Working/actions)
+
 **Transcribe Audio** is a macOS app built with Swift and SwiftUI for macOS 15+.
 It provides real-time audio playback and word-level transcription alignment.
 
